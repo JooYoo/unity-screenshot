@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenShot_with RenderCamera.Plugins", "ScreenShot_with RenderCamera.Plugins.csproj", "{28E87ABD-4356-DEC9-53B5-87E1FC81A8F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenShot_with RenderCamera", "ScreenShot_with RenderCamera.csproj", "{FDD60187-CA1F-38A7-BD22-B8128AD984AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenShot_with RenderCamera.Editor.Plugins", "ScreenShot_with RenderCamera.Editor.Plugins.csproj", "{70FC5C14-C6C4-6FB0-042C-2810D77D9A74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28E87ABD-4356-DEC9-53B5-87E1FC81A8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E87ABD-4356-DEC9-53B5-87E1FC81A8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E87ABD-4356-DEC9-53B5-87E1FC81A8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E87ABD-4356-DEC9-53B5-87E1FC81A8F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD60187-CA1F-38A7-BD22-B8128AD984AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD60187-CA1F-38A7-BD22-B8128AD984AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD60187-CA1F-38A7-BD22-B8128AD984AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD60187-CA1F-38A7-BD22-B8128AD984AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70FC5C14-C6C4-6FB0-042C-2810D77D9A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70FC5C14-C6C4-6FB0-042C-2810D77D9A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70FC5C14-C6C4-6FB0-042C-2810D77D9A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70FC5C14-C6C4-6FB0-042C-2810D77D9A74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
